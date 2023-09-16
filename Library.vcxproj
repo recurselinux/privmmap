@@ -186,12 +186,12 @@
     <ClInclude Include="MMap.h" />
     <ClInclude Include="ProcessInfo.h" />
     <ClInclude Include="resource.h" />
-    <ClInclude Include="Shtreeba.h" />
+    <ClInclude Include="bussdownrolly.h" />
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="File.cpp" />
     <ClCompile Include="Start.cpp" />
-    <ClCompile Include="MMap.cpp" />
+    <ClCompile Include="bussdownsussybalamapper.cpp" />
   </ItemGroup>
   <ItemGroup>
     <None Include="Library.def" />

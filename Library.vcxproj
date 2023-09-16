@@ -183,7 +183,7 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClInclude Include="File.h" />
-    <ClInclude Include="MMap.h" />
+    <ClInclude Include="bussdownrolly.h" />
     <ClInclude Include="ProcessInfo.h" />
     <ClInclude Include="resource.h" />
     <ClInclude Include="bussdownrolly.h" />
